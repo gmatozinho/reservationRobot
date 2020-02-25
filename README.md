@@ -3,4 +3,4 @@
 
 ## How to run
 
-npm start
+- npm start
